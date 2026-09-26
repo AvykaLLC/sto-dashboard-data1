@@ -1,7 +1,5 @@
 {
-
   "scannedAt": "2026-09-26T16:28:16Z",
-
   "pipeline": "java_sto_scans",
 
   "target": "example-java-springboot32",
@@ -988,4 +986,3 @@
 
 }
 
----END sto-issues.json---
