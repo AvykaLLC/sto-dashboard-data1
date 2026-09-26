@@ -1,10 +1,13 @@
+
 {
-  "scannedAt": "2026-09-26T16:28:16Z",
+
+  "scannedAt": "2026-09-26T16:49:19Z",
+
   "pipeline": "java_sto_scans",
 
   "target": "example-java-springboot32",
 
-  "executionId": "joMl35hyRIKMDupT3cZ4-g",
+  "executionId": "cC-KXTVHQF-vgQY2li-s4Q",
 
   "total": 81,
 
@@ -985,4 +988,3 @@
   ]
 
 }
-
