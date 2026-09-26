@@ -1,8 +1,8 @@
 {
-  "scannedAt": "2026-09-26T07:10:21Z",
+  "scannedAt": "2026-09-26T10:51:24Z",
   "pipeline": "java_sto_scans",
   "target": "example-java-springboot32",
-  "executionId": "4-A7_T9XTi2PwgT-ZLiW9A",
+  "executionId": "MTXFhVd6QW6XM6j0DGT4SQ",
   "total": 109,
   "issues": [
     {
