@@ -1,4 +1,4 @@
-# Example Java Spring Boot 3.2 API ##
+## Example Java Spring Boot 3.2 API ##
 
 > ⚠️ **This repo contains intentional vulnerabilities and fake secrets for security scanner testing. DO NOT use in production.**
 
