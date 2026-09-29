@@ -5,7 +5,7 @@
 
 ## Stack
 - **Framework:** Spring Boot 3.2.0
-- **Java:** 17 .
+- **Java:** 17 ..
 - **Build:** Maven
 
 ## Endpoints
