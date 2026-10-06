@@ -18,6 +18,43 @@
         <java.version>17</java.version>
     </properties>
     <dependencies>
+             <dependencies>
+    <!-- Log4j 2.14.1 - CVE-2021-44228 (Log4Shell) - CRITICAL -->
+    <dependency>
+        <groupId>org.apache.logging.log4j</groupId>
+        <artifactId>log4j-core</artifactId>
+        <version>2.14.1</version>
+    </dependency>
+    
+    <!-- Jackson Databind 2.9.8 - Multiple CVEs - HIGH -->
+    <dependency>
+        <groupId>com.fasterxml.jackson.core</groupId>
+        <artifactId>jackson-databind</artifactId>
+        <version>2.9.8</version>
+    </dependency>
+    
+    <!-- Spring Core 5.2.0 - CVE-2022-22965 (Spring4Shell) - CRITICAL -->
+    <dependency>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-core</artifactId>
+        <version>5.2.0.RELEASE</version>
+    </dependency>
+    
+    <!-- Commons Collections 3.2.1 - CVE-2015-6420 - HIGH -->
+    <dependency>
+        <groupId>commons-collections</groupId>
+        <artifactId>commons-collections</artifactId>
+        <version>3.2.1</version>
+    </dependency>
+    
+    <!-- Snakeyaml 1.30 - CVE-2022-1471 - CRITICAL -->
+    <dependency>
+        <groupId>org.yaml</groupId>
+        <artifactId>snakeyaml</artifactId>
+        <version>1.30</version>
+    </dependency>
+</dependencies>
+
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
