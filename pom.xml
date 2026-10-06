@@ -18,7 +18,6 @@
         <java.version>17</java.version>
     </properties>
     <dependencies>
-             <dependencies>
     <!-- Log4j 2.14.1 - CVE-2021-44228 (Log4Shell) - CRITICAL -->
     <dependency>
         <groupId>org.apache.logging.log4j</groupId>
@@ -53,7 +52,6 @@
         <artifactId>snakeyaml</artifactId>
         <version>1.30</version>
     </dependency>
-</dependencies>
 
         <dependency>
             <groupId>org.springframework.boot</groupId>
