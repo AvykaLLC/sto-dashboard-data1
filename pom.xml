@@ -84,7 +84,6 @@
       <artifactId>spring-boot-starter-test</artifactId>
       <scope>test</scope>
     </dependency>
-    <dependencies>
     <!-- Vulnerable jackson-databind - has 50+ CVEs, safe version 2.15.3+ -->
     <dependency>
         <groupId>com.fasterxml.jackson.core</groupId>
@@ -106,8 +105,6 @@
         <version>1.26</version>
     </dependency>
 </dependencies>
-
-  </dependencies>
   <build>
     <plugins>
       <plugin>
